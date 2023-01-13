@@ -1,0 +1,22 @@
+.canciones-fav{
+border: 5px solid red;
+border-radius: 20px;
+width: 400px;
+height: 200px;
+background-color: bisque;
+text-align: left;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+padding: 20px;
+}
+
+h2{
+    font-family : Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.caja{
+    margin-top: 100px;
+    margin-left: 80px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+}
